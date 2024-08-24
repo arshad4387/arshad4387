@@ -1,4 +1,4 @@
-- 👋 Hi, I’m arshad
+- 👋 Hi, I’m Arshad
 - 👀 I’m interested in coding and sports
 - 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on data analytics/sciences projects
